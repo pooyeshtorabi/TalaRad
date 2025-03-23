@@ -1,6 +1,6 @@
 <h1 align="center">TalaRad 🪙</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2c90e251-4e11-4ca2-bbf1-5f7c8814ef53" alt="TalaRad Logo" width="300" style="border-radius: 45px;">
+  <img src="https://github.com/user-attachments/assets/da065264-9f8e-45d4-8a2d-43b4a311c4ec" alt="TalaRad Logo" width="300" style="border-radius: 45px;">
 </p>
 
 <div align="center">
@@ -95,6 +95,9 @@ python main.py
 ```
 
 Then, open Telegram and start a conversation with your bot. Use the `/start` command to receive a welcome message. Available options include:
+
+![image](https://github.com/user-attachments/assets/0ba757b4-9bcd-4193-9ef9-d6f1899d423f)
+
 
 - **راهنمای سرمایه‌گذاری 💡:** Get investment advice.
 - **محاسبه قیمت طلا💰:** Calculate buying/selling prices.
