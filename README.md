@@ -167,6 +167,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Developed by PooyeshTorabi by ☕️ & ❤️
+Developed by PooyeshTorabi with ☕️ & ❤️
 
 Enjoy using TalaRad and happy coding!
